@@ -1,7 +1,7 @@
 // © 2024 twerking.lol | All rights reserved.
 
 window.addEventListener('load', () => {
-    const bios = ["localhost ddoser", "im cooler, skidder", "ass, ass, ass", "i am the master", "owner of twerking.lol", "owner @ nigger.xyz", "Developer @ tracer", "Remade 2PACALYPSE"];
+    const bios = ["localhost ddoser", "im cooler, skidder", "ass, ass, ass", "i am the master", "I own too many domains", "owner @ nigger.xyz", "owner @ fuckedur.mom", "owner @ pube.hair"];
     const bioContainer = document.querySelector('#bio');
     let currentBioIndex = 0;
   
